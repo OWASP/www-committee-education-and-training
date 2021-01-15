@@ -16,4 +16,4 @@
 * [Daniel Ting](mailto:daniel.ting@owasp.org)
 
 **Staff Contact**
-[Harold Blankenship](mailto:harold.blankenship@owasp.com)
+* [Harold Blankenship](mailto:harold.blankenship@owasp.com)
