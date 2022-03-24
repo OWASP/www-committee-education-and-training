@@ -1,7 +1,6 @@
 ### Leaders
 * [Adrian Winckles](mailto:adrian.winckles@owasp.org) - Chair
 * [John DiLeo](mailto:john.dileo@owasp.org) - Vice Chair
-* [Andrew Gordon-Brooks](mailto:andrew.gordonbrooks@owasp.org) - Secretary
 
 **Committee Members**
 * [Opheliar Chan](mailto:opheliar.chan@owasp.org)
