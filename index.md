@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Education and Training Committee
 tags: example-tag
-pitch: A very brief, one-line description of your committee
+pitch: To educate developers and information security professionals about skills needed in the application security sector
 
 ---
 
