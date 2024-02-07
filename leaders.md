@@ -1,6 +1,6 @@
 ### Leaders
-* [Adrian Winckles](mailto:adrian.winckles@owasp.org) - Chair
-* [John DiLeo](mailto:john.dileo@owasp.org) - Vice Chair
+* [Adrian Winckles](mailto:adrian.winckles@owasp.org)
+* [Shruti Kulkarni](mailto:shruti.kulkarni@owasp.org)
 
 **Committee Members**
 * [Opheliar Chan](mailto:opheliar.chan@owasp.org)
@@ -16,3 +16,6 @@
 
 **Staff Contact**
 * [Harold Blankenship](mailto:harold.blankenship@owasp.com)
+
+**Board Representative**
+* [Ricardo Griffith](mailto:ricardogriffith@icloud.com)
