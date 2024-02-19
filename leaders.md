@@ -6,4 +6,4 @@
 * [Harold Blankenship](mailto:harold.blankenship@owasp.com)
 
 **Board Representative**
-* [Ricardo Griffeth](mailto:ricardogriffith@icloud.com)
+* [Ricardo Griffith](mailto:ricardogriffith@icloud.com)
