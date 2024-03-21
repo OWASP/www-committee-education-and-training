@@ -1,7 +1,5 @@
 ### Leaders
-<<<<<<< HEAD
-* [Adrian Winckles](mailto:adrian.winckles@owasp.org)
-* [Shruti Kulkarni](mailto:shruti.kulkarni@owasp.org)
+
 =======
 * [Adrian Winckles](mailto:adrian.winckles@owasp.org) - Chair
 * [John DiLeo](mailto:john.dileo@owasp.org) - Vice Chair
