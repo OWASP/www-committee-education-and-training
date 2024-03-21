@@ -15,7 +15,6 @@
 * [Didar Gelici](mailto:didar.gelici@owasp.org)
 * [Andrea Scaduto](mailto:andrea.scaduto@owasp.org)
 * [Daniel Ting](mailto:daniel.ting@owasp.org)
->>>>>>> parent of 810a701 (Update leaders.md)
 
 **Staff Contact**
 * [Harold Blankenship](mailto:harold.blankenship@owasp.com)
