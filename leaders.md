@@ -1,6 +1,5 @@
 ### Leaders
 
-=======
 * [Adrian Winckles](mailto:adrian.winckles@owasp.org) - Chair
 * [Daniel Ting](mailto:daniel.ting@owasp.org) - Vice Chair
 * [Shruti Kulkarni](mailto:shruti.kulkarni@owasp.org) - Secretary
