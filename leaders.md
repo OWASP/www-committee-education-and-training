@@ -2,22 +2,25 @@
 
 =======
 * [Adrian Winckles](mailto:adrian.winckles@owasp.org) - Chair
-* [John DiLeo](mailto:john.dileo@owasp.org) - Vice Chair
+* [Daniel Ting](mailto:daniel.ting@owasp.org) - Vice Chair
+* [Shruti Kulkarni](mailto:shruti.kulkarni@owasp.org) - Secretary
 
 **Committee Members**
-* [Opheliar Chan](mailto:opheliar.chan@owasp.org)
+* [John Ellingsworth](mailto:John.Ellingsworth@owasp.org)
 * [Azzeddine Ramrami](mailto:azzeddine.ramrami@owasp.org)
-* [Dennis Johnson](mailto:dennis.johnson@owasp.org)
-* [John Ellingsworth](mailto:john.ellingsworth@owasp.org)
+* [Ophelier Chan](mailto:Ophelier.Chan@owasp.org)
+* [Kevin W. Wall](mailto:Kevin.w.wall@owasp.org)
 * [Toby Irvine](mailto:toby.irvine@owasp.org)
-* [Pablo Barrera](mailto:pablo.barrera@owasp.org) 
+* [Dennis Johnson](mailto:Dennis.Johnson@owasp.org) 
 * [Grant Ongers](mailto:grant.ongers@owasp.org)
-* [Didar Gelici](mailto:didar.gelici@owasp.org)
 * [Andrea Scaduto](mailto:andrea.scaduto@owasp.org)
-* [Daniel Ting](mailto:daniel.ting@owasp.org)
+* [John DiLeo](mailto:john.dileo@owasp.org) 
 
 **Staff Contact**
-* [Harold Blankenship](mailto:harold.blankenship@owasp.com)
+* [Jason C. McDonald](mailto:jason.mcdonald@owasp.com)
 
 **Board Representative**
 * [Ricardo Griffith](mailto:ricardogriffith@icloud.com)
+
+**Board Contact**
+* [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
