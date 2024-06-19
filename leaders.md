@@ -13,7 +13,8 @@
 * [Dennis Johnson](mailto:Dennis.Johnson@owasp.org) 
 * [Grant Ongers](mailto:grant.ongers@owasp.org)
 * [Andrea Scaduto](mailto:andrea.scaduto@owasp.org)
-* [John DiLeo](mailto:john.dileo@owasp.org) 
+* [John DiLeo](mailto:john.dileo@owasp.org)
+* [Saskia Coplans](saskia.coplans@owasp.org)
 
 **Staff Contact**
 * [Jason C. McDonald](mailto:jason.mcdonald@owasp.com)
