@@ -22,5 +22,5 @@
 **Board Representative**
 * [Ricardo Griffith](mailto:ricardogriffith@icloud.com)
 
-**Board Contact**
+**BoD Member**
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
