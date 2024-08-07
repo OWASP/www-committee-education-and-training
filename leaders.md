@@ -20,7 +20,7 @@
 * [Jason C. McDonald](mailto:jason.mcdonald@owasp.com)
 
 **Board Representative**
-* [Ricardo Griffith](mailto:ricardogriffith@icloud.com)
+* [Ricardo Griffith](mailto:l.bricardogriffith@owasp.org)
 
 **BoD Member**
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
