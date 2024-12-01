@@ -1,7 +1,7 @@
 ### Leaders
 
 * [Adrian Winckles](mailto:adrian.winckles@owasp.org) - Chair
-* [Daniel Ting](mailto:daniel.ting@owasp.org) - Vice Chair
+* [Andrea Scaduto](mailto:andrea.scaduto@owasp.org) - Vice Chair
 * [Shruti Kulkarni](mailto:shruti.kulkarni@owasp.org) - Secretary
 
 **Committee Members**
@@ -12,12 +12,11 @@
 * [Toby Irvine](mailto:toby.irvine@owasp.org)
 * [Dennis Johnson](mailto:Dennis.Johnson@owasp.org) 
 * [Grant Ongers](mailto:grant.ongers@owasp.org)
-* [Andrea Scaduto](mailto:andrea.scaduto@owasp.org)
 * [John DiLeo](mailto:john.dileo@owasp.org)
 * [Saskia Coplans](saskia.coplans@owasp.org)
 
 **Staff Contact**
-* [Jason C. McDonald](mailto:jason.mcdonald@owasp.com)
+* [Andrew van der Stock](mailto:andrew.vanderstock@owasp.com)
 
 **Board Representative**
 * [Ricardo Griffith](mailto:l.bricardogriffith@owasp.org)
