@@ -34,15 +34,15 @@ The OWASP Education and Training Committee will respond to the requests received
 ### Certification
 Design and develop a certification program with multiple levels (Foundational and Advanced) for developers. The certificate would provide a validation of knowledge of developers but also provide an avenue to meet requirements of standards like PCI-DSS where training developers on secure coding is a requirement.
 
-## Proposed initial Projects
+### Proposed initial Projects
 
 Establish a core set of Learning Objectives for an application security curriculum, that defines the educational requirements necessitated by industry (from an established Application Security Body of Knowledge)
-        * Undertake a gap analysis of existing and missing curricula learning to meet the requirements outlined by industry;
-        * This will be achieved through liaison with industry, professional bodies and existing state of the art literature.
+        # Undertake a gap analysis of existing and missing curricula learning to meet the requirements outlined by industry;
+        # This will be achieved through liaison with industry, professional bodies and existing state of the art literature.
 
 Design, Develop and Implement a certificate for developers - OWASP Certified Secure Developer. The initial set of aims/goals for achieving this project are:
-        * To design a body of knowledge 
-        * Design a process for creating an exam question bank
-        * Foundational certification levels shall be programming language neutral
+        # To design a body of knowledge 
+        # Design a process for creating an exam question bank
+        # Foundational certification levels shall be programming language neutral
 
 
