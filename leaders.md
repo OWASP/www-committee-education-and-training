@@ -13,6 +13,7 @@
 * [Grant Ongers](mailto:grant.ongers@owasp.org)
 * [John DiLeo](mailto:john.dileo@owasp.org)
 * [Saskia Coplans](saskia.coplans@owasp.org)
+* [Alex Ley](Alex.Ley@owasp.org)
 
 **Staff Contact**
 * [Starr Brown](mailto:starr.brown@owasp.com)
