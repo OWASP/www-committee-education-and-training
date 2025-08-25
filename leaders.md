@@ -17,4 +17,5 @@
 
 **Liaisons**
 * [Starr Brown](mailto:starr.brown@owasp.com) - Staff
+* [Ricardo Griffith](l.bricardogriffith@owasp.org) - Global Board 
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) - Global Board
