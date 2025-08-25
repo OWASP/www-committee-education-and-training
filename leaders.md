@@ -15,11 +15,6 @@
 * [Saskia Coplans](saskia.coplans@owasp.org)
 * [Alex Ley](Alex.Ley@owasp.org)
 
-**Staff Contact**
-* [Starr Brown](mailto:starr.brown@owasp.com)
-
-**Board Representative**
-* [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
-
-**BoD Member**
-* [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
+**Liaisons**
+* [Starr Brown](mailto:starr.brown@owasp.com) - Staff
+* [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) - Global Board
