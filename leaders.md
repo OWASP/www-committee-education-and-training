@@ -13,6 +13,7 @@
 * [John DiLeo](mailto:john.dileo@owasp.org)
 * [Saskia Coplans](saskia.coplans@owasp.org)
 * [Alex Ley](Alex.Ley@owasp.org)
+* [Sully Vickers](sully.vickers@owasp.org)
 
 ## Liaisons
 * [Starr Brown](mailto:starr.brown@owasp.com) - Staff
